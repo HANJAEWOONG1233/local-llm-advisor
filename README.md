@@ -39,7 +39,19 @@ _Local AI Academic Advisor Chatbot_
    > “소프트웨어원리 과목에 대해 알려줘”  
    RAG 파이프라인으로 정확한 규정·과목 정보 제공  
 4. **데모 동작 예시**  
-   ![챗봇 데모](path/to/demo.gif)  
+   <img width="740" alt="image" src="https://github.com/user-attachments/assets/074b2358-2849-40f8-aad4-e68bf94cad36" />
+
+   <img width="739" alt="image" src="https://github.com/user-attachments/assets/11e6e0f2-d572-46c2-aa2f-65936a858eea" />
+
+   <img width="746" alt="image" src="https://github.com/user-attachments/assets/0108addf-52a5-46d9-9cd0-04176fe7788d" />
+
+   <img width="746" alt="image" src="https://github.com/user-attachments/assets/2cb5dd8a-12df-4d80-97d3-57f60a334d15" />
+
+   <img width="743" alt="image" src="https://github.com/user-attachments/assets/22ea6ebf-0acb-47dc-8e59-803dc5ab1e3f" />
+
+   <img width="748" alt="image" src="https://github.com/user-attachments/assets/ca6a666c-7748-43d8-955f-8857571b2470" />
+
+
 
 ---
 
