@@ -45,9 +45,8 @@ _Local AI Academic Advisor Chatbot_
 
 ## 🛠️ 시스템 구성 (System Architecture)
 
-Streamlit UI ─▶ Rule-Based Engine ─▶ MySQL DB
-│
-└─▶ RAG Pipeline ─▶ Ollama LLM
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/77322c1b-765f-4dfd-b5c3-b2bc622ea938" />
+
 
 
 
